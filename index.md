@@ -63,3 +63,31 @@ Ensure you include comments about the choices you've made along the way.*
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
+1. Conceptual progress (design intent, 3 rough design concepts, 1 better thought through
+design concept)
+2. Physical experimentation (tech development such as code screenshots, pictures of
+electronics, video of tests)
+3. Documentation (the items listed above plus interaction flow diagram, inspiration,
+exemplars, related concepts and projects, methods and approaches drawn from the Double
+Diamond model). See GitHub template for more details.
+4. Participation in discussion boards (your own development, general participation,
+feedback on others’ contributions)
+Conceptual progress
+Demonstrate you have developed
+a. A design intent. It should be expressed as a phrase of about 10 words. See class
+slides for examples.
+b. 3 rough design concepts developed to a point where you anticipate it would be
+feasible to complete by the end of the course. Each should have a summary of the
+idea, a rough sketch of what it might be like, and any other notes you created while
+exploring the idea.
+c. 1 final design concept to pursue further. This should include consideration of the
+interaction scheme, technical functionality, fabrication approach, materials to be
+used, and aesthetic. (See week 6 slides for review of these.)
+Physical experimentation
+Show your progress including whichever of the following are appropriate for your project at
+this point.
+a. Technical development. Could be code screenshots, pictures of electronics and
+hardware testing, video of tests.
+b. Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material
+considerations, mood boards, etc.
