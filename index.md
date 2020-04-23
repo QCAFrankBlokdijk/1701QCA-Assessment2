@@ -63,9 +63,31 @@ This project is related to mine because it shows how to code and create your own
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
-### *Brief resource name/description* ###
+### What is the framework for innovation? Design Council's evolved Double Diamond
+ ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond
+
+Design Council’s Double Diamond clearly conveys a design process to designers and non-designers alike. The two diamonds represent a process of exploring an issue more widely or deeply (divergent thinking) and then taking focused action (convergent thinking). I was able to use this approach to further the design of my project.
+
+### Advanced Games with Micro:Bit ###
+
+https://medium.com/@wtr/advanced-games-with-micro-bit-part-1-1cd1f33cd18b
+
+This source allowed me to see the full breadth of what is achievable with the micro-bit, allowing me to extend my knowledge and create an item that is interesting and complex.
+
+### Cyclone A timeless, intuitive game that no arcade should be without. ###
+
+https://www.icegame.com/category/93/cyclone
+
+The official page for the cyclone arcade machine, it gave me an insight into how the actual machine operates, and allowed me to replicate its general idea through the design of the original.
+
+### Designing Distraction: Executive Toys ###
+
+https://www.nytimes.com/2015/02/05/garden/designing-distraction-executive-toys.html
+
+An article by the New York Times that outlines how executive toys are created and what makes them effective. An interesting read about how executive toys help executives stay focused and get out of complex situations.
+
 
 ## Conceptual progress ##
 
