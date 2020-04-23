@@ -104,7 +104,7 @@ The product will be made of wood, with a clear acrylic plate over the lights so 
 
 ### Interaction flowchart ###
 
-![Image](FC1.png)
+![Image](FC1.PNG)
 
 ## Physical experimentation documentation ##
 
